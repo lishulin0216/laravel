@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('admin/zhuye');
 });
+
+Route::get('fenye','admin\ZhuyeController@zhuye');
+
+
