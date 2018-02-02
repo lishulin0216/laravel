@@ -11,10 +11,20 @@
 |
 */
 
-Route::get('/', function () {
-    return view('admin/zhuye');
-});
+// Route::get('/', function () {
+//     return view('home/zhuye');
+// });
 
-Route::get('fenye','admin\ZhuyeController@zhuye');
+Route::get('/fenye','home\zhuyeController@index');
+
+// Route::group(['prefix' => 'admin','namespace' => 'admin'],function(){
+// 	Route::resource('')
+// })
+
+// Route::group(['prefix' => 'home','namespace' => 'home'],function(){
+// 	Route::resource('')
+// })
+
+
 
 

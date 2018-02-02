@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\admin;
+namespace App\Http\Controllers\home;
 
 use Illuminate\Http\Request;
 
@@ -9,7 +9,7 @@ use App\Http\Controllers\Controller;
 
 
 
-class ZhuyeController extends Controller
+class zhuyeController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -18,8 +18,8 @@ class ZhuyeController extends Controller
      */
     public function index()
     {   
-
-        return view('admin\zhuye');
+  
+        return view('home/zhuye');
     }
 
     /**

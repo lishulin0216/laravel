@@ -18,15 +18,14 @@
 
 <meta name="keywords" content="问答系统 提问 回答 知识搜索 问问 搜狗"/>
 <meta name="description" content="搜狗旗下的互动问答社区，用户可以提出问题、解决问题、或者搜索其他用户沉淀的精彩内容；在这里可以感受到最热烈的互助气氛，浏览到最精彩的问答内容。"/>
-<title>搜狗问问-搜狗旗下最大互动问答社区</title>
+<title>@yield('title')</title>
 <link rel="Shortcut Icon" href="//www.sogou.com/images/logo2014/new/favicon.ico"/>
 <link rel="Bookmark" href="//www.sogou.com/images/logo2014/new/favicon.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="//wenwen.sogou.com/wenwenSearch.xml" title="问问搜索"/>
     <link rel="stylesheet" type="text/css" href="./admin/css/111.css" />
     <link rel="stylesheet" type="text/css" href="{{asset('/admin/css/222.css')}}" />
 <link rel="stylesheet" type="text/css" href="./admin/css/333.css" />
-
-    <script>
+<script>
         var _gtag = _gtag || {};
 
         _gtag = {
