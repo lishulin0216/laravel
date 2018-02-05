@@ -59,12 +59,12 @@
     
 <div id="header">
         <div class="login" data-score="0">
-            <a href="javascript:;" class="btn-login" id="s_login">登录</a>
+            <a href="/login" >登录</a>
     </div>
 
     <div class="header">
         <div class="searchbox">
-            <a href="/" title="到首页"><img src="//cache.soso.com/wenwen/images/wenwen_logo_ic@1x.png" alt="搜狗问问" srcset="//cache.soso.com/wenwen/images/wenwen_logo_ic@2x.png 2x" class="logo"></a>
+            <a href="/index" title="到首页"><img src="./home/images/logo2.png" alt="问盍" srcset="//cache.soso.com/wenwen/images/wenwen_logo_ic@2x.png 2x" class="logo"></a>
             <form name="flpage" class="searchform" method="get" action="/s/">
                 <div class="querybox"><input class="query" type="text" element="input" value="" id="sb" name="w" maxlength="50" autocomplete="off" /></div>
                 <div class="sbtn1"><input class="search_bt" type="submit" name="search" value="搜索" id="searchBtn"></div>
@@ -75,32 +75,32 @@
 
     <div class="mnavbox">
         <ul class="mnav">
-            <li><a href="/?ch=ww.dh.sy">首页</a></li>
-            <li><a href="/cate/tag/?ch=ww.dh.fly">问题分类</a></li>
+            <li><a href="/index">首页</a></li>
+            <li><a href="#">问题分类</a></li>
             <li><a>特色<i></i></a>
                 <ul class="mnav-menu">
-                    <li><a href="//zhinan.sogou.com/?ch=ww.dh.zn" target="_blank">搜狗指南</a></li>
-                    <li><a href="http://ld.sogou.com/?ch=ww.dh.lds" target="_blank">搜狗略懂</a></li>
+                    <li><a href="#" target="_blank">搜狗指南</a></li>
+                    <li><a href="#" target="_blank">搜狗略懂</a></li>
                 </ul>
             </li>
-            <li><a href="http://yisheng.wenwen.sogou.com?ch=ww.dh.ys">问问医生<i></i></a>
+            <li><a href="#">问问医生<i></i></a>
                 <ul class="mnav-menu">
-                    <li><a href="//zhuanjia.sogou.com/yisheng">问问医生</a></li>
-                    <li><a href="//zhuanjia.sogou.com/yisheng/category/main">名医问答</a></li>
-                    <li><a href="//zhuanjia.sogou.com/yisheng/user/my-home">我的问诊</a></li>
-                    <li><a href="//zhuanjia.sogou.com/yisheng/question/ask">我要咨询</a></li>
+                    <li><a href="#">问问医生</a></li>
+                    <li><a href="#">名医问答</a></li>
+                    <li><a href="#">我的问诊</a></li>
+                    <li><a href="#">我要咨询</a></li>
                 </ul>
             </li>
-            <li><a href="//zhuanjia.sogou.com/lvshi?ch=ww.dh.ls">问问律师<i></i></a>
+            <li><a href="#">问问律师<i></i></a>
                 <ul class="mnav-menu">
-                    <li><a href="//zhuanjia.sogou.com/lvshi/">问问律师</a></li>
-                    <li><a href="//zhuanjia.sogou.com/lvshi/cate/main">律师回答</a></li>
-                    <li><a href="//zhuanjia.sogou.com/lvshi/user/my-home">我的咨询</a></li>
-                    <li><a href="//zhuanjia.sogou.com/lvshi/question/ask">我要咨询</a></li>
+                    <li><a href="#">问问律师</a></li>
+                    <li><a href="#">律师回答</a></li>
+                    <li><a href="#">我的咨询</a></li>
+                    <li><a href="#">我要咨询</a></li>
                 </ul>
             </li>
-            <li><a href="/cate/mall?ch=ww.mall.enter">问豆商城</a></li>
-            <li class="mnav-rgt"><a href="/user/center/?ch=ww.dh.grzx">个人中心</a></li>
+            <li><a href="#">问豆商城</a></li>
+            <li class="mnav-rgt"><a href="#">个人中心</a></li>
         </ul>
     </div>
 
@@ -1028,7 +1028,7 @@
         </div>
         <div class="ft-box2">
             <div class="ft-link"><a href="http://fuwu.sogou.com/" target="_blank">企业推广</a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;<a href="//pinyin.sogou.com/" target="_blank">输入法</a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;<a href="//ie.sogou.com/" target="_blank">浏览器</a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;<a href="//corp.sogou.com/private.html" target="_blank">隐私政策</a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;<a href="//www.sogou.com/docs/terms.htm" target="_blank">免责声明</a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;<a href="/cate/agreement" target="_blank">用户协议</a>&nbsp;&nbsp;&ndash;&nbsp;&nbsp;<a href="/question/?qid=6257031425502416154" target="_blank">帮助</a></div>
-            <p class="ft-box2-lft">© 2018 Sogou Inc. 京ICP证050897号</p>
+            <p class="ft-box2-lft">© 2018 WenHe Inc. 京ICP证050897号</p>
         </div>
     </div>
 </div>        <div id="popup_wrap" style="z-index:2;"></div>

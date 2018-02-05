@@ -22,7 +22,7 @@ Route::get('/','admin\loginController@index');
 Route::get('/login','home\loginController@index');
 
 //前台注册
-Route::get('/logins','home\loginsController@index');
+// Route::get('/logins','home\loginsController@index');
 
 // 前台首页
 Route::get('/index','home\indexController@index');
@@ -30,4 +30,8 @@ Route::get('/index','home\indexController@index');
 //列表页
 Route::get('/index/list','home\listController@index');
 
+//发布页
+Route::get('/index/fabu','home\fabuController@index');
 
+//详情页
+Route::get('/index/huifu','home\huifuController@index');
