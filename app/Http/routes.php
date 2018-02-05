@@ -12,8 +12,7 @@
 */
 
 // Route::get('/', function () {
-//     return view('welcome');
-// });
+
 
 // 后台登录
 Route::get('/','admin\loginController@index');
@@ -35,3 +34,12 @@ Route::get('/index/fabu','home\fabuController@index');
 
 //详情页
 Route::get('/index/huifu','home\huifuController@index');
+
+//前台个人中心页
+Route::get('/fenye','home\zhuyeController@index');
+
+
+
+
+
+
