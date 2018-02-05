@@ -10,7 +10,16 @@
 | and give it the controller to call when that URI is requested.
 |
 */
+//前台登录
+Route::get('/login','home\loginController@index');
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//前台注册
+Route::get('/zhuce','home\regController@index');
+
+//前台列表
+Route::get('/list','home\listController@index');
+
+
+//首页
+Route::get('/shouye','home\shouyeController@index');
+

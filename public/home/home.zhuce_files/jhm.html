@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0028)http://www.350mb.com/jhm.php -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>获取激活码，免费领取一套淘宝店铺模板</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="renderer" content="webkit">
+
+<link rel="stylesheet" href="./normalize.css" type="text/css">
+
+<link rel="stylesheet" href="./style.css" media="screen" type="text/css">
+<script type="text/javascript" src="./jquery.min(1).js"></script>
+<script type="text/javascript" src="./ZeroClipboard.js"></script>
+<script language="JavaScript">
+$(function(){
+	
+
+
+$(".copyBtn").each(function(i){
+        var id = $(this).attr('data');
+        var clip=null;
+        clip = new ZeroClipboard.Client();
+        clip.setHandCursor( true );
+		
+        clip.setText( $("#cardid"+id).val() );
+        clip.addEventListener( "mouseUp", function(client) {
+		alert("亲，您的激活码《"+$("#cardid"+id).val()+"》复制成功！\直接Ctril+V粘贴在下方的激活码文本框中即可！\n请快点注册吧，不然一会被人抢注喽！","友情提示：");
+		
+		
+		
+		
+		
+		
+	});
+        clip.glue( 'copycardid'+id);
+  });});
+</script>
+
+
+</head>
+<body><div style="float:left;width:380px;margin-left:60px;">
+<div class="webdesigntuts-workshop">
+<div class="jihuoma">
+		<input type="text" name="cardid0" id="cardid0" readonly="readonly" data="A-0204-F4FA-F04C-B7C9" value="A-0204-F4FA-F04C-B7C9"> 
+         	
+		<button id="copycardid0" data="0" class="copyBtn">领取激活码</button>
+</div>
+	
+</div></div>
+<div style="float:right;width:380px;margin-right:60px;">
+<div class="webdesigntuts-workshop">
+<div class="jihuoma">
+		<input type="text" name="cardid0" id="cardid1" readonly="readonly" value="A-7803-A1D9-7B6E-6B67">  	
+		<button id="copycardid1" data="1" class="copyBtn">领取激活码</button>
+</div>
+	
+</div></div>
+
+
+
+
+<div style="position: absolute; left: 311px; top: 35px; width: 102px; height: 34px; z-index: 9999;"><embed id="ZeroClipboardMovie_1" src="../..//css/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="102" height="34" name="ZeroClipboardMovie_1" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=1&amp;width=102&amp;height=34" wmode="transparent"></div><div style="position: absolute; left: 711px; top: 35px; width: 102px; height: 34px; z-index: 9999;"><embed id="ZeroClipboardMovie_2" src="../..//css/ZeroClipboard.swf" loop="false" menu="false" quality="best" bgcolor="#ffffff" width="102" height="34" name="ZeroClipboardMovie_2" align="middle" allowscriptaccess="always" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="id=2&amp;width=102&amp;height=34" wmode="transparent"></div></body></html>
