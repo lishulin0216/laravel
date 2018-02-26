@@ -6,11 +6,8 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-use App\Http\Model\user;
 
-
-
-class zhuyeController extends Controller
+class loginsController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -18,11 +15,8 @@ class zhuyeController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    {   
-       //$res = user::all();
-        
-        return view('home/zhuye');
-        
+    {
+        return view('home/logins');
     }
 
     /**
@@ -32,7 +26,7 @@ class zhuyeController extends Controller
      */
     public function create()
     {
-        
+        //
     }
 
     /**
@@ -43,7 +37,7 @@ class zhuyeController extends Controller
      */
     public function store(Request $request)
     {
-       
+        //
     }
 
     /**
@@ -65,7 +59,7 @@ class zhuyeController extends Controller
      */
     public function edit($id)
     {
-
+        //
     }
 
     /**

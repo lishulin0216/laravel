@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
+<<<<<<< HEAD
         <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+=======
+        <title>Laravel.5</title>
+
+        <!-- <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css"> -->
+>>>>>>> 8d5a8baf01ce106cd8aff53abbd72ec5b6daeb7c
 
         <style>
             html, body {
@@ -39,6 +45,10 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+<<<<<<< HEAD
+=======
+                <h4>lishulin</h4>
+>>>>>>> 8d5a8baf01ce106cd8aff53abbd72ec5b6daeb7c
             </div>
         </div>
     </body>
