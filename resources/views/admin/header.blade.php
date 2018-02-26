@@ -226,7 +226,7 @@
                 </li>
 
                 <li class="sidebar-nav-link">
-                    <a href="{{ url('admin//') }}" class="sidebar-nav-sub-title">
+                    <a href="{{ url('admin/permissions/') }}" class="sidebar-nav-sub-title">
                         <i class="am-icon-table sidebar-nav-link-logo"></i> 权限管理
                        
                     </a>

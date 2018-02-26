@@ -22,7 +22,7 @@ class permissionsController extends Controller
         // dd(111);
         $res = user::all();
         // dd($res);
-        return view('admin/permissions');
+        return view('admin/permissions',compact('res'));
     }
 
     /**
