@@ -7,7 +7,9 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
-class huifuController extends Controller
+
+
+class wentiController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,7 +18,8 @@ class huifuController extends Controller
      */
     public function index()
     {
-        return view('home/huifu');
+        // dd(111);
+        return view('home/wenti');
     }
 
     /**
@@ -26,7 +29,8 @@ class huifuController extends Controller
      */
     public function create()
     {
-        //
+     
+      
     }
 
     /**
@@ -37,7 +41,7 @@ class huifuController extends Controller
      */
     public function store(Request $request)
     {
-        //
+       
     }
 
     /**
@@ -59,7 +63,8 @@ class huifuController extends Controller
      */
     public function edit($id)
     {
-        //
+        //查询满足条件的数据，并且只取第一条
+       
     }
 
     /**
@@ -71,7 +76,8 @@ class huifuController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        // $list = $request->all();
+     
     }
 
     /**
@@ -82,6 +88,6 @@ class huifuController extends Controller
      */
     public function destroy($id)
     {
-        //
+       
     }
 }

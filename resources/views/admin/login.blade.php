@@ -1,82 +1,67 @@
 <!DOCTYPE html>
-<!-- saved from url=(0062)http://demo.cssmoban.com/cssthemes2/tpmo_418_pack/login-2.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Login Two</title>
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<link href="./admin/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	<link href="./admin/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-	<link href="./admin/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
-	<link href="./admin/css/bootstrap-social.css" rel="stylesheet" type="text/css">	
-	<link href="./admin/css/templatemo_style.css" rel="stylesheet" type="text/css">	
-</head>
-<body class="templatemo-bg-image-1">
-	<div class="container">
-		<div class="col-md-12">			
-			<form class="form-horizontal templatemo-login-form-2" role="form" action="http://demo.cssmoban.com/cssthemes2/tpmo_418_pack/login-2.html#" method="post">
-				<div class="row">
-					<div class="col-md-12">
-						<h1>问盍管理</h1>
-					</div>
-				</div>
-				<div class="row">
-					<div class="templatemo-one-signin col-md-6">
-				        <div class="form-group">
-				          <div class="col-md-12">		          	
-				            <label for="username" class="control-label">Username</label>
-				            <div class="templatemo-input-icon-container">
-				            	<input type="text" class="form-control" id="username" placeholder="">
-				            </div>		            		            		            
-				          </div>              
-				        </div>
-				        <div class="form-group">
-				          <div class="col-md-12">
-				            <label for="password" class="control-label">Password</label>
-				            <div class="templatemo-input-icon-container">
-				            	<input type="password" class="form-control" id="password" placeholder="">
-				            </div>
-				          </div>
-				        </div>
-				        <div class="form-group">
-				          <div class="col-md-12">
-				            <div class="checkbox">
-				                <label>
-				                  <input type="checkbox"> Remember me
-				                </label>
-				            </div>
-				          </div>
-				        </div>
-				        <div class="form-group">
-				          <div class="col-md-12">
-				            <input type="submit" value="LOG IN" class="btn btn-warning">
-				          </div>
-				        </div>
-				        <div class="form-group">
-				          	<div class="col-md-12">
-				        		<a href="http://demo.cssmoban.com/cssthemes2/tpmo_418_pack/forgot-password.html" class="text-center">Cannot login?</a>
-				       	 	</div>
-				    	</div>
-					</div>
-					<div class="templatemo-other-signin col-md-6">
-						<label class="margin-bottom-15">
-							One-click sign in using other services. Credit goes to <a rel="nofollow" href="http://lipis.github.io/bootstrap-social/">Bootstrap Social</a> for social sign in buttons.
-						</label>
-						<!-- <a class="btn btn-block btn-social btn-facebook margin-bottom-15">
-						    <i class="fa fa-facebook"></i> Sign in with Facebook
-						</a>
-						<a class="btn btn-block btn-social btn-twitter margin-bottom-15">
-						    <i class="fa fa-twitter"></i> Sign in with Twitter
-						</a>
-						<a class="btn btn-block btn-social btn-google-plus">
-						    <i class="fa fa-google-plus"></i> Sign in with Google
-						</a>
- -->					</div>   
-				</div>				 	
-		      </form>		      		      
-		</div>
-	</div>
+<html lang="en">
 
-</body></html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>问盍管理登录</title>
+    <meta name="description" content="这是一个 index 页面">
+    <meta name="keywords" content="index">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <link rel="icon" type="image/png" href="assets/i/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/i/app-icon72x72@2x.png">
+    <meta name="apple-mobile-web-app-title" content="Amaze UI" />
+    <link rel="stylesheet" href="/assets/css/amazeui.min.css" />
+    <link rel="stylesheet" href="/assets/css/amazeui.datatables.min.css" />
+    <link rel="stylesheet" href="/assets/css/app.css">
+    <script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+<body data-type="login">
+    <script src="/assets/js/theme.js"></script>
+    <div class="am-g tpl-g">
+        <div class="tpl-login">
+            <div class="tpl-login-content">
+					<img src="/assets/img/logo1.png" alt="">
+                <form class="am-form tpl-form-line-form">
+                    <div class="am-form-group">
+                        <input type="text" class="tpl-form-input" id="user-name" placeholder="请输入账号">
+
+                    </div>
+
+                    <div class="am-form-group">
+                        <input type="password" class="tpl-form-input" id="user-name" placeholder="请输入密码">
+
+                    </div>
+                    <div class="am-form-group tpl-login-remember-me">
+                        <input id="remember-me" type="checkbox">
+                        <label for="remember-me">
+       
+                        记住密码
+                         </label>
+
+                    </div>
+
+
+
+
+
+
+                    <div class="am-form-group">
+
+                        <button type="button" class="am-btn am-btn-primary  am-btn-block tpl-btn-bg-color-success  tpl-login-btn">登录</button>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="/assets/js/amazeui.min.js"></script>
+    <script src="/assets/js/app.js"></script>
+
+</body>
+
+</html>

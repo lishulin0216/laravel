@@ -11,11 +11,7 @@
 |
 */
 
-// Route::get('/', function () {
 
-
-// 后台登录
-Route::get('/','admin\loginController@index');
 
 // 前台登录
 Route::get('/login','home\loginController@index');
@@ -32,14 +28,32 @@ Route::get('/index/list','home\listController@index');
 //发布页
 Route::get('/index/fabu','home\fabuController@index');
 
-//详情页
-Route::get('/index/huifu','home\huifuController@index');
-
 //前台个人中心页
 Route::get('/fenye','home\zhuyeController@index');
 
+Route::get('/home/index', 'home\demoController@index');
+
+//发布页
+Route::resource('/fabu','home\fabuController');
+
+//问题页
+Route::resource('/wenti','home\wentiController');
 
 
+// 后台首页
+// Route::get('/admin/index', 'admin\indexController@index');
+// 添加
+Route::resource('/admin/add','admin\aduserController@create');
+// 登录
+Route::resource('/admin/login','admin\loginController@index');
+// 类别管理
+Route::resource('/admin/type','admin\typeController@index');
+// 用户管理
+Route::resource('/admin/aduser','admin\aduserController');
+// 审核管理
+Route::resource('/admin/audit','admin\auditController@index');
+// 权限管理
+Route::resource('/admin/permissions','admin\permissionsController@index');
 
 
 

@@ -1,13 +1,14 @@
 <?php
 
-namespace App\Http\Controllers\home;
+namespace App\Http\Controllers\admin;
 
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use App\Http\Model\aduser;
 
-class fabuController extends Controller
+class aduserController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,7 +17,8 @@ class fabuController extends Controller
      */
     public function index()
     {
-        return view('home/fabu');
+        $res = aduser::all();
+        return view('admin/aduser',compact('res','aduser_id'));
     }
 
     /**
@@ -26,7 +28,8 @@ class fabuController extends Controller
      */
     public function create()
     {
-
+        return view('admin/add');
+      
     }
 
     /**
@@ -37,7 +40,7 @@ class fabuController extends Controller
      */
     public function store(Request $request)
     {
-
+       
     }
 
     /**
@@ -60,6 +63,7 @@ class fabuController extends Controller
     public function edit($id)
     {
         //查询满足条件的数据，并且只取第一条
+       
     }
 
     /**
@@ -72,6 +76,7 @@ class fabuController extends Controller
     public function update(Request $request, $id)
     {
         // $list = $request->all();
+     
     }
 
     /**
@@ -82,6 +87,8 @@ class fabuController extends Controller
      */
     public function destroy($id)
     {
-
+       $res = aduser::where('aduser_id',$id)->delete();
+       
+       return $res;
     }
 }

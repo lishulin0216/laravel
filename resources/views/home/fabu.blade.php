@@ -1,94 +1,5 @@
-
-
-<!doctype html>
-<html>
-<head>
-    
-<meta charset="utf-8"/>
-<title>问盍社区</title>
-    <link rel="stylesheet" type="text/css" href="./home/css/tiwen.css" />
-            <link rel="stylesheet" type="text/css" href="./home/css/tiwen2.css" />
-    </head>
-
-<body style="overflow-y: scroll">
-    <div id="wrap">
-        
-<div id="header">
-        <div class="login" data-score="0">
-            <div id="userNotice" class="user-notice"></div>
-        <span class="login-line"></span>
-        <div class="user-option">
-            <a href="/user/center" class="btn-user-option">
-                <div class="user-thumb"><img src="http://thirdqq.qlogo.cn/g?b=sdk&k=TcRZXDK9NpYaIjhkOv7mjA&s=140&t=1510704539" width="100%" height="100%" alt="头像"></div>
-                <div class="user-name-box"><div class="user-name">当空烈日久骄阳</div></div>
-                <i class="arr-user"></i>
-            </a>
-            <ul class="popup-lst">
-                <li><a href="/user/center?type=question&ch=newsy.id.ask">我的提问</a></li>
-                <li><a href="/user/center?type=answer&ch=newsy.id.answer">我的回答</a></li>
-                <li><a href="javascript:;" id="s_logout" >退出</a></li>
-            </ul>
-        </div>
-    </div>
-    <div class="searchnav">
-        <ul class="topnav">
-            <li><a href="http://news.sogou.com/news?ie=utf8&p=70330300" id="s_bar_news" ch="newsy.cpdh">新闻</a></li>
-<li><a href="http://www.sogou.com/web?p=70330100" id="s_bar_search" ch="newsy.cpdh">网页</a></li>
-<li><a href="http://weixin.sogou.com/weixin?p=75351202" id="s_bar_weixin" ch="newsy.cpdh">微信</a></li>
-<li><a href="http://zhihu.sogou.com/?p=77351200" id="s_bar_zhihu" ch="newsy.cpdh">知乎</a></li>
-<li><a href="http://pic.sogou.com/pics?p=77030500" id="s_bar_pic" ch="newsy.cpdh">图片</a></li>
-<li><a href="http://v.sogou.com/v?p=77030600" id="s_bar_video" ch="newsy.cpdh">视频</a></li>
-<li><a href="http://mingyi.sogou.com/mingyi" id="s_bar_mingyi" ch="newsy.cpdh">明医</a></li>
-<li><a href="http://english.sogou.com" id="s_bar_english" ch="newsy.cpdh">英文</a></li>
-<li class="cur"><span href="http://wenwen.sogou.com/" id="s_bar_wenwen">问问</span></li>
-    <li><a href="http://www.sogou.com/docs/more.htm?p=70331800" id="s_bar_sogou_more" ch="newsy.cpdh">更多<span class="topraquo">&raquo;</span></a></li>
-        </ul>
-    </div>
-
-    <div class="header">
-        <div class="searchbox">
-            <a href="/" title="到搜狗问问首页"><img src="//cache.soso.com/wenwen/images/wenwen_logo_ic@1x.png" alt="搜狗问问" srcset="//cache.soso.com/wenwen/images/wenwen_logo_ic@2x.png 2x" class="logo"></a>
-            <form name="flpage" class="searchform" method="get" action="/s/">
-                <div class="querybox"><input class="query" type="text" element="input" value="" id="sb" name="w" maxlength="50" autocomplete="off" /></div>
-                <div class="sbtn1"><input class="search_bt" type="submit" name="search" value="搜索答案" id="searchBtn"></div>
-            </form>
-            <a href="/question/ask" class="btnask" target="_blank">我要提问</a>
-        </div>
-    </div>
-
-    <div class="mnavbox">
-        <ul class="mnav">
-            <li><a href="/?ch=ww.dh.sy">首页</a></li>
-            <li><a href="/cate/tag/?ch=ww.dh.fly">问题分类</a></li>
-            <li><a>特色<i></i></a>
-                <ul class="mnav-menu">
-                    <li><a href="//zhinan.sogou.com/?ch=ww.dh.zn" target="_blank">搜狗指南</a></li>
-                    <li><a href="http://ld.sogou.com/?ch=ww.dh.lds" target="_blank">搜狗略懂</a></li>
-                </ul>
-            </li>
-            <li><a href="http://yisheng.wenwen.sogou.com?ch=ww.dh.ys">问问医生<i></i></a>
-                <ul class="mnav-menu">
-                    <li><a href="//zhuanjia.sogou.com/yisheng">问问医生</a></li>
-                    <li><a href="//zhuanjia.sogou.com/yisheng/category/main">名医问答</a></li>
-                    <li><a href="//zhuanjia.sogou.com/yisheng/user/my-home">我的问诊</a></li>
-                    <li><a href="//zhuanjia.sogou.com/yisheng/question/ask">我要咨询</a></li>
-                </ul>
-            </li>
-            <li><a href="//zhuanjia.sogou.com/lvshi?ch=ww.dh.ls">问问律师<i></i></a>
-                <ul class="mnav-menu">
-                    <li><a href="//zhuanjia.sogou.com/lvshi/">问问律师</a></li>
-                    <li><a href="//zhuanjia.sogou.com/lvshi/cate/main">律师回答</a></li>
-                    <li><a href="//zhuanjia.sogou.com/lvshi/user/my-home">我的咨询</a></li>
-                    <li><a href="//zhuanjia.sogou.com/lvshi/question/ask">我要咨询</a></li>
-                </ul>
-            </li>
-            <li><a href="/cate/mall?ch=ww.mall.enter">问豆商城</a></li>
-            <li class="mnav-rgt"><a href="/user/center/?ch=ww.dh.grzx">个人中心</a></li>
-        </ul>
-    </div>
-
-</div>
-        
+@extends('largin.header')
+@section('content')
 
 <div id="container">
     <div class="content">
@@ -199,8 +110,6 @@
     </div>
 </div>
 
-
-
 <script>
     var _gtag = _gtag || {};
 
@@ -274,3 +183,14 @@
 <script crossorigin="anonymous" src="./home/js/dt.main.js"></script></body>
 
 </html>
+<script crossorigin="anonymous" src="./shouye/js/jquery-1.11.1.min.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/preact.min.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/polyfill.min.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/monitor.main.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/wenke.main.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/pc.main.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/63ed866.js"></script>
+<script crossorigin="anonymous" src="./shouye/js/4e5e2cd.js"></script>
+
+
+@endsection

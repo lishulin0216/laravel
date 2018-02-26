@@ -1,7 +1,28 @@
 <!DOCTYPE html>
 <!-- saved from url=(0040)http://wenwen.sogou.com/z/q287383479.htm -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>问盍社区</title>
+    
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="http://cache.soso.com/">
+<link rel="dns-prefetch" href="http://sugg.search.wenwen.sogou.com/">
+<link rel="dns-prefetch" href="http://hint.wenwen.sogou.com/">
+<link rel="dns-prefetch" href="http://xui.ptlogin2.qq.com/">
+<link rel="dns-prefetch" href="http://q1.qlogo.cn/">
+<link rel="dns-prefetch" href="http://q2.qlogo.cn/">
+<link rel="dns-prefetch" href="http://q3.qlogo.cn/">
+<link rel="dns-prefetch" href="http://q4.qlogo.cn/">
+<link rel="dns-prefetch" href="http://p.qpic.cn/">
+<link rel="dns-prefetch" href="http://img.sogoucdn.com/">
+<meta name="keywords" content="搜狗问问">
+<meta name="description" content="可以，具体还要看店家的态度，不过一般都是可以要电子版的作为收藏。">
+<link rel="canonical" href="http://wenwen.sogou.com/z/q287383479.htm">
+<meta name="robots" content="noindex,follow">
+<title>搜狗问问首页_搜狗问问</title>
+<link rel="Shortcut Icon" href="http://www.sogou.com/images/logo2014/new/favicon.ico">
+<link rel="Bookmark" href="http://www.sogou.com/images/logo2014/new/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="http://wenwen.sogou.com/wenwenSearch.xml" title="问问搜索">
 <script>
     var loginKey = '82d49971977aee3d0383020340c10002b022aba4e4150459c202c182c6830558';
     var sp_config = {
@@ -16,7 +37,7 @@
     if (cguid == null) {
         cguid = new Date().getTime() + '-' + Math.round(Math.random() * 2147483647);
     }
-</script>    <link rel="stylesheet" type="text/css" href="./huifu/style_efff039.css">
+</script>    <link rel="stylesheet" type="text/css" href="./home/huifu/style_efff039.css">
     <script>
     var _gtag = _gtag || {};
 
@@ -48,14 +69,11 @@
 
 </script>
 
-<script crossorigin="anonymous" src="./huifu/jquery-1.11.1.min.js"></script>
-<script crossorigin="anonymous" src="./huifu/preact.min.js"></script>
-<script crossorigin="anonymous" src="./huifu/pro_obj_str_polyfill.min.js"></script>
-<script crossorigin="anonymous" src="./huifu/main.js"></script>
-<link href="./huifu/attestation_99450a9.css" rel="stylesheet">
-<script crossorigin="anonymous" src="./huifu/main(1).js"></script>
-<script crossorigin="anonymous" src="./huifu/main(2).js"></script>
-<style type="text/css">#login_mask {
+<script crossorigin="anonymous" src="./home/huifu/jquery-1.11.1.min.js"></script>
+<script crossorigin="anonymous" src="./home/huifu/preact.min.js"></script><script crossorigin="anonymous" src="./home/huifu/pro_obj_str_polyfill.min.js"></script>
+<script crossorigin="anonymous" src="./home/huifu/main.js"></script>
+<link href="./home/huifu/attestation_99450a9.css" rel="stylesheet"><script crossorigin="anonymous" src="./home/huifu/main(1).js"></script>
+<script crossorigin="anonymous" src="./home/huifu/main(2).js"></script><style type="text/css">#login_mask {
     background: #000;
     opacity: 0.5;
     filter: alpha(opacity=50);
@@ -71,7 +89,7 @@
     height:368px;
     z-index:1020;
 }</style>
-<script crossorigin="anonymous" src="./huifu/main_63ed866.js"></script><style type="text/css">/* -- container -- */
+<script crossorigin="anonymous" src="./home/huifu/main_63ed866.js"></script><style type="text/css">/* -- container -- */
 .rodal,
 .rodal-mask {
     top: 0;
@@ -559,7 +577,7 @@
     -webkit-animation: rodal-door-leave both;
     animation: rodal-door-leave both;
 }</style>
-<script crossorigin="anonymous" src="./huifu/main_2ca923e.js"></script><style type="text/css">/* -- container -- */
+<script crossorigin="anonymous" src="./home/huifu/main_2ca923e.js"></script><style type="text/css">/* -- container -- */
 .rodal,
 .rodal-mask {
     top: 0;
@@ -1059,7 +1077,7 @@
         <span class="login-line"></span>
         <div class="user-option">
             <a href="http://wenwen.sogou.com/user/center" class="btn-user-option">
-                <div class="user-thumb"><img src="./huifu/g" width="100%" height="100%" alt="头像"></div>
+                <div class="user-thumb"><img src="./home/huifu/g" width="100%" height="100%" alt="头像"></div>
                 <div class="user-name-box"><div class="user-name">温存  ^</div></div>
                 <i class="arr-user"></i>
             </a>
@@ -1087,7 +1105,7 @@
 
     <div class="header">
         <div class="searchbox">
-            <a href="http://wenwen.sogou.com/" title="到搜狗问问首页"><img src="./huifu/wenwen_logo_ic@1x.png" alt="搜狗问问" srcset="//cache.soso.com/wenwen/images/wenwen_logo_ic@2x.png 2x" class="logo"></a>
+            <a href="http://wenwen.sogou.com/" title="到搜狗问问首页"><img src="./home/huifu/wenwen_logo_ic@1x.png" alt="搜狗问问" srcset="//cache.soso.com/wenwen/images/wenwen_logo_ic@2x.png 2x" class="logo"></a>
             <form name="flpage" class="searchform" method="get" action="http://wenwen.sogou.com/s/">
                 <div class="querybox"><input class="query" type="text" element="input" value="" id="sb" name="w" maxlength="50" autocomplete="off"></div>
                 <div class="sbtn1"><input class="search_bt" type="submit" name="search" value="搜索答案" id="searchBtn"></div>
@@ -1176,7 +1194,7 @@
 <div class="aside-section">
             <div id="userBaseInfo" class="mycard">
                         
-                                    <a href="http://wenwen.sogou.com/user/center?ch=ww.xqy.id" class="user-thumb "><img src="./huifu/g" width="100%" height="100%" alt="头像"></a>
+                                    <a href="http://wenwen.sogou.com/user/center?ch=ww.xqy.id" class="user-thumb "><img src="./home/huifu/g" width="100%" height="100%" alt="头像"></a>
             <div class="mycard-name-box">
                 <a href="http://wenwen.sogou.com/user/center" class="mycard-name">温存  ^</a>
                 <span class="user-level-tag">0级</span>
@@ -1199,9 +1217,9 @@
     </div>
 <div id="aside_fix">
         <div id="hint_search"><div class="aside-section"><div class="aside-related-wrap"><h3 class="aside-tit">相关搜索</h3><ul class="aside-related-srch"><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E9%A6%96%E9%A1%B5qq%E7%99%BB%E5%BD%95&amp;ch=ww.xqy.xgss.cbl" target="_blank"><span class="aside-related-srch-num">1058次搜索</span><div class="aside-related-srch-tit">搜狗问问首页qq登录</div></a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E7%99%BB%E5%BD%95%E9%A6%96%E9%A1%B5&amp;ch=ww.xqy.xgss.cbl" target="_blank"><span class="aside-related-srch-num">1458次搜索</span><div class="aside-related-srch-tit">搜狗问问登录首页</div></a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E4%BD%BF%E7%94%A8&amp;ch=ww.xqy.xgss.cbl" target="_blank"><span class="aside-related-srch-num">333次搜索</span><div class="aside-related-srch-tit">新版搜狗问问使用</div></a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E6%80%8E%E4%B9%88%E5%9B%9E%E7%AD%94&amp;ch=ww.xqy.xgss.cbl" target="_blank"><span class="aside-related-srch-num">308次搜索</span><div class="aside-related-srch-tit">新版搜狗问问怎么回答</div></a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E6%80%8E%E4%B9%88%E5%9B%9E%E7%AD%94%E9%97%AE%E9%A2%98&amp;ch=ww.xqy.xgss.cbl" target="_blank"><span class="aside-related-srch-num">258次搜索</span><div class="aside-related-srch-tit">搜狗问问怎么回答问题</div></a></li></ul></div></div></div>
-    <div id="topic_answer" class="aside-section"><div><div class="aside-box"><h3 class="aside-tit">精彩回答</h3><div class="aside-box-pg"><a href="javascript:;" class="aside-pg-lft"><i></i></a><em class="cur_num">1</em>/<em class="total_num">5</em><a href="javascript:;" class="aside-pg-rgt"><i></i></a></div><div class=""><a href="http://wenwen.sogou.com/question/?qid=6358012970664398595&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180131095059-768222649/0/500" width="465" height="156" data-observer="true" src="./huifu/saved_resource" data-loaded="true"><div class="aside-thumb-txt">2017各地年终奖曝光，你的年终奖是悲剧还是喜剧？</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6358063026247502580&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180130134933-403274207/0/500" width="465" height="156" data-observer="true" src="./huifu/saved_resource(1)" data-loaded="true"><div class="aside-thumb-txt">人如果掉进黑洞会怎样？既活着也死去？</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6356662852065364413&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180130090557-753860486/0/500" width="465" height="156" data-observer="true" src="./huifu/saved_resource(2)" data-loaded="true"><div class="aside-thumb-txt">你的一票格外重要，支持TA就快来给TA点赞吧！	</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6357683945232335830&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180129162642-1549741592/0/500" width="465" height="156" data-observer="true" src="./huifu/saved_resource(3)" data-loaded="true"><div class="aside-thumb-txt">月全食怎样形成的，为何称其为”红月亮”？	</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6356616727916645310&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180126113552-271513687/0/500" width="465" height="156" data-observer="true" src="./huifu/saved_resource(4)" data-loaded="true"><div class="aside-thumb-txt">为什么秦始皇自称寡人，其他皇帝都是自称朕？</div></a></div></div></div></div>
+    <div id="topic_answer" class="aside-section"><div><div class="aside-box"><h3 class="aside-tit">精彩回答</h3><div class="aside-box-pg"><a href="javascript:;" class="aside-pg-lft"><i></i></a><em class="cur_num">1</em>/<em class="total_num">5</em><a href="javascript:;" class="aside-pg-rgt"><i></i></a></div><div class=""><a href="http://wenwen.sogou.com/question/?qid=6358012970664398595&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180131095059-768222649/0/500" width="465" height="156" data-observer="true" src="./home/huifu/saved_resource" data-loaded="true"><div class="aside-thumb-txt">2017各地年终奖曝光，你的年终奖是悲剧还是喜剧？</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6358063026247502580&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180130134933-403274207/0/500" width="465" height="156" data-observer="true" src="./home/huifu/saved_resource(1)" data-loaded="true"><div class="aside-thumb-txt">人如果掉进黑洞会怎样？既活着也死去？</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6356662852065364413&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180130090557-753860486/0/500" width="465" height="156" data-observer="true" src="./home/huifu/saved_resource(2)" data-loaded="true"><div class="aside-thumb-txt">你的一票格外重要，支持TA就快来给TA点赞吧！	</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6357683945232335830&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180129162642-1549741592/0/500" width="465" height="156" data-observer="true" src="./home/huifu/saved_resource(3)" data-loaded="true"><div class="aside-thumb-txt">月全食怎样形成的，为何称其为”红月亮”？	</div></a></div><div class="hide"><a href="http://wenwen.sogou.com/question/?qid=6356616727916645310&amp;ch=ww.xqy.jchd" target="_blank" class="aside-reply-thumb"><img class="lazyLoad" data-src="http://p.qpic.cn/wenwenpic/0/20180126113552-271513687/0/500" width="465" height="156" data-observer="true" src="./home/huifu/saved_resource(4)" data-loaded="true"><div class="aside-thumb-txt">为什么秦始皇自称寡人，其他皇帝都是自称朕？</div></a></div></div></div></div>
                 <div class="aside-section aside_ad" style="margin-bottom: 0">                <a href="https://s.click.taobao.com/38bQ4Vw?from=sgwenwen" target="_blank" class="aside-ad-box">
-                <img src="./huifu/0" width="280" height="210" alt="流鼻血非小事，各种原因要知道">
+                <img src="./home/huifu/0" width="280" height="210" alt="流鼻血非小事，各种原因要知道">
             </a>
         </div>
     </div>
@@ -1229,7 +1247,7 @@
     <div class="ft-info-box">
         <div class="user-thumb-box">
                             <span class="user-thumb">
-                                    <img src="./huifu/default-thumb7_ac1be33.png" width="100%" height="100%" alt="头像">
+                                    <img src="./home/huifu/default-thumb7_ac1be33.png" width="100%" height="100%" alt="头像">
                                 </span>
                     </div>
         <div class="user-name-box">
@@ -1262,7 +1280,7 @@
 <div class="user-thumb-box">
 
                                 <a href="http://wenwen.sogou.com/user/center?ta=ba477629c94c242e0043e9030382dd04&amp;ch=ww.xqy.tx" target="_blank" class="user-thumb ">
-                <img src="./huifu/avatarml2new.gif" width="100%" height="100%" alt="头像">
+                <img src="./home/huifu/avatarml2new.gif" width="100%" height="100%" alt="头像">
             </a>
             
 </div>    
@@ -1308,7 +1326,7 @@
                             </div>
 
             <!-- 底部相关 -->
-            <div id="relates_box"><div><div><div><div class="section"><h2 class="section-tit">相关问题</h2><ul class="related-topic"><li><a href="http://wenwen.sogou.com/z/q3500648540.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab fromLd" target="_blank"><div><span class="related-topic-date">2011-10-15</span><p class="related-topic-tit">搜狗问问中恶意诋毁,捏造事实</p></div><span class="up-tag"><i></i>1048</span></a></li><li><a href="http://wenwen.sogou.com/z/q623709420.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2015-02-20</span><p class="related-topic-tit">搜狗问问登陆首页</p></div><span class="up-tag"><i></i>3</span></a></li><li><a href="http://wenwen.sogou.com/z/q602584228.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2014-11-05</span><p class="related-topic-tit">搜狗问问如何下载</p></div><span class="up-tag"><i></i>4</span></a></li><li><a href="http://wenwen.sogou.com/z/q554487620.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2014-05-10</span><p class="related-topic-tit">搜狗问问怎么回答</p></div><span class="up-tag"><i></i>4</span></a></li><li><a href="http://wenwen.sogou.com/z/q630508056.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2015-07-05</span><p class="related-topic-tit">搜狗问问怎么发图片</p></div><span class="up-tag"><i></i>3</span></a></li><li><a href="http://wenwen.sogou.com/z/q619727220.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2014-12-04</span><p class="related-topic-tit">搜狗问问首页登录?????</p></div><span class="up-tag"><i></i>2</span></a></li></ul></div></div><div class="section" style="display: block;"><h2 class="section-tit">略懂社推荐</h2><div class="section-toprgt-bar"><a href="http://ld.sogou.com/?ch=pc.ldsry.more.click" class="btn-toprgt-more" target="_blank">查看更多<i></i></a></div><ul class="ld-recommend-lst"><li><a href="http://ld.sogou.com/question?qid=10347326&amp;fromShare=1&amp;ch=pc.ldsry.listitem1.click" class="ld-recommend-tab" target="_blank"><div class="ld-recommend-thumb"><img class="lazyLoad" data-src="http://pic.wenwen.soso.com/pqpic/wenwenpic/0/20180201163945-415065670_jpeg_500_375_18968/" alt="" data-observer="true" src="./huifu/saved_resource(5)" data-loaded="true" style="width: 210px; margin-top: -3px;"><div class="ld-recommend-tit"><p>詹姆斯.哈登退役前有没有希望进入30000分牛人榜？</p></div></div><div class="ld-recommend-bar"><span class="ld-recommend-rgt">回答<span class="ld-recommend-num">6</span></span><span class="ld-recommend-tag">问答</span><span class="ld-recommend-tag">体育</span></div></a></li><li><a href="http://ld.sogou.com/question?qid=10347301&amp;fromShare=1&amp;ch=pc.ldsry.listitem2.click" class="ld-recommend-tab" target="_blank"><div class="ld-recommend-thumb"><img class="lazyLoad" data-src="http://pic.wenwen.soso.com/pqpic/wenwenpic/0/20180201155503-109271102_jpeg_1500_1000_63351/" alt="" data-observer="true" src="./huifu/saved_resource(6)" data-loaded="true" style="height: 152px; margin-left: -9px;"><div class="ld-recommend-tit"><p>为什么华晨宇都不怎么唱情歌？</p></div></div><div class="ld-recommend-bar"><span class="ld-recommend-rgt">回答<span class="ld-recommend-num">5</span></span><span class="ld-recommend-tag">问答</span><span class="ld-recommend-tag">明星</span></div></a></li><li><a href="http://ld.sogou.com/question?qid=10346064&amp;fromShare=1&amp;ch=pc.ldsry.listitem3.click" class="ld-recommend-tab" target="_blank"><div class="ld-recommend-thumb"><img class="lazyLoad" data-src="http://pic.wenwen.soso.com/pqpic/wenwenpic/0/20180131174349-345350689_jpeg_450_266_28027/" alt="" data-observer="true" src="./huifu/saved_resource(7)" data-loaded="true" style="height: 152px; margin-left: -23.5px;"><div class="ld-recommend-tit"><p>足球守门员在球场上都如何打发时间？</p></div></div><div class="ld-recommend-bar"><span class="ld-recommend-rgt">回答<span class="ld-recommend-num">7</span></span><span class="ld-recommend-tag">问答</span><span class="ld-recommend-tag">体育</span></div></a></li></ul></div><div class="section"><h2 class="section-tit">相关搜索</h2><ul class="related-srch"><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E9%A6%96%E9%A1%B5qq%E7%99%BB%E5%BD%95&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问首页qq登录</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E7%99%BB%E5%BD%95%E9%A6%96%E9%A1%B5&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问登录首页</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E4%BD%BF%E7%94%A8&amp;ch=ww.xqy.xgss" target="_blank">新版搜狗问问使用</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E6%80%8E%E4%B9%88%E5%9B%9E%E7%AD%94&amp;ch=ww.xqy.xgss" target="_blank">新版搜狗问问怎么回答</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E6%80%8E%E4%B9%88%E5%9B%9E%E7%AD%94%E9%97%AE%E9%A2%98&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问怎么回答问题</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE&amp;ch=ww.xqy.xgss" target="_blank">如何使用新版搜狗问问</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AEsh&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问sh</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AEd&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问d</a></li></ul></div><div><div class="section"><h2 class="section-tit">相关百科</h2><div class="wiki"><a href="http://baike.sogou.com/v67146704.htm?ch=ww.xqy.xgbk" class="wiki-thumb" target="_blank"><div class="wiki-thumb-box"><img class="lazyLoad" data-src="http://pic.baike.soso.com/ugc/baikepic2/5371/20170824074419-1670461185_jpg_250_200_3939.jpg/0" data-observer="true" src="./huifu/0(1)" data-loaded="true"><span class="thmb_v"></span></div></a><div class="wiki-tit"><a href="http://baike.sogou.com/v67146704.htm?ch=ww.xqy.xgbk" target="_blank">搜狗问问</a></div><p class="wiki-info">搜狗问问是搜狗公司旗下的知识应用产品、问答互动平台，前身为腾讯公司旗下互动问答社区SOSO问问。主要覆盖了电脑数码、生活家居、游戏、体育、娱乐、休闲、艺术等数十个品类，拥有过7亿用户，是中国最具影响力的社区问答...</p><a href="http://baike.sogou.com/v67146704.htm?ch=ww.xqy.xgbk" class="btn-wiki-info" target="_blank">查看详细百科<i></i></a></div></div></div></div></div></div>
+            <div id="relates_box"><div><div><div><div class="section"><h2 class="section-tit">相关问题</h2><ul class="related-topic"><li><a href="http://wenwen.sogou.com/z/q3500648540.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab fromLd" target="_blank"><div><span class="related-topic-date">2011-10-15</span><p class="related-topic-tit">搜狗问问中恶意诋毁,捏造事实</p></div><span class="up-tag"><i></i>1048</span></a></li><li><a href="http://wenwen.sogou.com/z/q623709420.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2015-02-20</span><p class="related-topic-tit">搜狗问问登陆首页</p></div><span class="up-tag"><i></i>3</span></a></li><li><a href="http://wenwen.sogou.com/z/q602584228.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2014-11-05</span><p class="related-topic-tit">搜狗问问如何下载</p></div><span class="up-tag"><i></i>4</span></a></li><li><a href="http://wenwen.sogou.com/z/q554487620.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2014-05-10</span><p class="related-topic-tit">搜狗问问怎么回答</p></div><span class="up-tag"><i></i>4</span></a></li><li><a href="http://wenwen.sogou.com/z/q630508056.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2015-07-05</span><p class="related-topic-tit">搜狗问问怎么发图片</p></div><span class="up-tag"><i></i>3</span></a></li><li><a href="http://wenwen.sogou.com/z/q619727220.htm?ch=ww.xqy.xgzs&amp;pid=ww.xqy.xgzs" class="related-topic-tab" target="_blank"><div><span class="related-topic-date">2014-12-04</span><p class="related-topic-tit">搜狗问问首页登录?????</p></div><span class="up-tag"><i></i>2</span></a></li></ul></div></div><div class="section" style="display: block;"><h2 class="section-tit">略懂社推荐</h2><div class="section-toprgt-bar"><a href="http://ld.sogou.com/?ch=pc.ldsry.more.click" class="btn-toprgt-more" target="_blank">查看更多<i></i></a></div><ul class="ld-recommend-lst"><li><a href="http://ld.sogou.com/question?qid=10347326&amp;fromShare=1&amp;ch=pc.ldsry.listitem1.click" class="ld-recommend-tab" target="_blank"><div class="ld-recommend-thumb"><img class="lazyLoad" data-src="http://pic.wenwen.soso.com/pqpic/wenwenpic/0/20180201163945-415065670_jpeg_500_375_18968/" alt="" data-observer="true" src="./home/huifu/saved_resource(5)" data-loaded="true" style="width: 210px; margin-top: -3px;"><div class="ld-recommend-tit"><p>詹姆斯.哈登退役前有没有希望进入30000分牛人榜？</p></div></div><div class="ld-recommend-bar"><span class="ld-recommend-rgt">回答<span class="ld-recommend-num">6</span></span><span class="ld-recommend-tag">问答</span><span class="ld-recommend-tag">体育</span></div></a></li><li><a href="http://ld.sogou.com/question?qid=10347301&amp;fromShare=1&amp;ch=pc.ldsry.listitem2.click" class="ld-recommend-tab" target="_blank"><div class="ld-recommend-thumb"><img class="lazyLoad" data-src="http://pic.wenwen.soso.com/pqpic/wenwenpic/0/20180201155503-109271102_jpeg_1500_1000_63351/" alt="" data-observer="true" src="./home/huifu/saved_resource(6)" data-loaded="true" style="height: 152px; margin-left: -9px;"><div class="ld-recommend-tit"><p>为什么华晨宇都不怎么唱情歌？</p></div></div><div class="ld-recommend-bar"><span class="ld-recommend-rgt">回答<span class="ld-recommend-num">5</span></span><span class="ld-recommend-tag">问答</span><span class="ld-recommend-tag">明星</span></div></a></li><li><a href="http://ld.sogou.com/question?qid=10346064&amp;fromShare=1&amp;ch=pc.ldsry.listitem3.click" class="ld-recommend-tab" target="_blank"><div class="ld-recommend-thumb"><img class="lazyLoad" data-src="http://pic.wenwen.soso.com/pqpic/wenwenpic/0/20180131174349-345350689_jpeg_450_266_28027/" alt="" data-observer="true" src="./home/huifu/saved_resource(7)" data-loaded="true" style="height: 152px; margin-left: -23.5px;"><div class="ld-recommend-tit"><p>足球守门员在球场上都如何打发时间？</p></div></div><div class="ld-recommend-bar"><span class="ld-recommend-rgt">回答<span class="ld-recommend-num">7</span></span><span class="ld-recommend-tag">问答</span><span class="ld-recommend-tag">体育</span></div></a></li></ul></div><div class="section"><h2 class="section-tit">相关搜索</h2><ul class="related-srch"><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E9%A6%96%E9%A1%B5qq%E7%99%BB%E5%BD%95&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问首页qq登录</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E7%99%BB%E5%BD%95%E9%A6%96%E9%A1%B5&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问登录首页</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E4%BD%BF%E7%94%A8&amp;ch=ww.xqy.xgss" target="_blank">新版搜狗问问使用</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E6%80%8E%E4%B9%88%E5%9B%9E%E7%AD%94&amp;ch=ww.xqy.xgss" target="_blank">新版搜狗问问怎么回答</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE%E6%80%8E%E4%B9%88%E5%9B%9E%E7%AD%94%E9%97%AE%E9%A2%98&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问怎么回答问题</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E6%96%B0%E7%89%88%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AE&amp;ch=ww.xqy.xgss" target="_blank">如何使用新版搜狗问问</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AEsh&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问sh</a></li><li><a href="http://wenwen.sogou.com/s/?w=%E6%90%9C%E7%8B%97%E9%97%AE%E9%97%AEd&amp;ch=ww.xqy.xgss" target="_blank">搜狗问问d</a></li></ul></div><div><div class="section"><h2 class="section-tit">相关百科</h2><div class="wiki"><a href="http://baike.sogou.com/v67146704.htm?ch=ww.xqy.xgbk" class="wiki-thumb" target="_blank"><div class="wiki-thumb-box"><img class="lazyLoad" data-src="http://pic.baike.soso.com/ugc/baikepic2/5371/20170824074419-1670461185_jpg_250_200_3939.jpg/0" data-observer="true" src="./home/huifu/0(1)" data-loaded="true"><span class="thmb_v"></span></div></a><div class="wiki-tit"><a href="http://baike.sogou.com/v67146704.htm?ch=ww.xqy.xgbk" target="_blank">搜狗问问</a></div><p class="wiki-info">搜狗问问是搜狗公司旗下的知识应用产品、问答互动平台，前身为腾讯公司旗下互动问答社区SOSO问问。主要覆盖了电脑数码、生活家居、游戏、体育、娱乐、休闲、艺术等数十个品类，拥有过7亿用户，是中国最具影响力的社区问答...</p><a href="http://baike.sogou.com/v67146704.htm?ch=ww.xqy.xgbk" class="btn-wiki-info" target="_blank">查看详细百科<i></i></a></div></div></div></div></div></div>
             <div class="ad-activity-wrap" style="display: none">
                 <a href="http://wenwen.sogou.com/z/q287383479.htm#" class="ad-activity-thumb">你的每个回答都是帮助，马上参与</a>
                 <a href="http://wenwen.sogou.com/z/q287383479.htm#" class="btn-ad-activity">关闭</a>
@@ -1371,7 +1389,7 @@
 
     </div>
 
-    <script crossorigin="anonymous" src="./huifu/idata.js"></script>
-<script crossorigin="anonymous" src="./huifu/main(3).js"></script>
+    <script crossorigin="anonymous" src="./home/huifu/idata.js"></script>
+<script crossorigin="anonymous" src="./home/huifu/main(3).js"></script>
 
 <div id="divc" style="display: none; z-index: 101; width: 500px; left: 414.5px; top: 101px;"></div></body></html>

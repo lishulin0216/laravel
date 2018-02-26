@@ -2,6 +2,7 @@
 <html>
     <head>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <title>Laravel.5</title>
 
         <!-- <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css"> -->
@@ -10,6 +11,11 @@
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 >>>>>>> 774ce24c644e2a5ba1553d8187f5af8ed9c65f4c
+=======
+        <title>Laravel</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+>>>>>>> bd9de07cd1ce480abdecb72a3d37642cfcfbf520
 
         <style>
             html, body {
@@ -46,9 +52,12 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <h4>lishulin</h4>
 =======
 >>>>>>> 774ce24c644e2a5ba1553d8187f5af8ed9c65f4c
+=======
+>>>>>>> bd9de07cd1ce480abdecb72a3d37642cfcfbf520
             </div>
         </div>
     </body>
