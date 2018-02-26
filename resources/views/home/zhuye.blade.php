@@ -134,12 +134,12 @@
 <a href="/question/?qid=6287141289087930302" target="_blank" class="btn-help">帮助</a>
 <a href="javascript:;" class="btn-gotop go_to_top hide"><i>置顶</i></a>
 
-<script crossorigin="anonymous" src="./js/jquery-1.11.1.min.js"></script>
-<script crossorigin="anonymous" src="./js/preact.min.js"></script>
-<script crossorigin="anonymous" src="./js/polyfill.min.js"></script>
-<script crossorigin="anonymous" src="./js/monitor.main.js"></script>
-<script crossorigin="anonymous" src="./js/wenke/main.js"></script>
-<script crossorigin="anonymous" src="./js/pc.main.js"></script>
-<script crossorigin="anonymous" src="./js/df750fc.js"></script>
-<script crossorigin="anonymous" src="./js/3f83f0e.js"></script>
+<script crossorigin="anonymous" src="./home/js/jquery-1.11.1.min.js"></script>
+<script crossorigin="anonymous" src="./home/js/preact.min.js"></script>
+<script crossorigin="anonymous" src="./home/js/polyfill.min.js"></script>
+<script crossorigin="anonymous" src="./home/js/monitor.main.js"></script>
+<script crossorigin="anonymous" src="./home/js/wenke/main.js"></script>
+<script crossorigin="anonymous" src="./home/js/pc.main.js"></script>
+<script crossorigin="anonymous" src="./home/js/df750fc.js"></script>
+<script crossorigin="anonymous" src="./home/js/3f83f0e.js"></script>
 

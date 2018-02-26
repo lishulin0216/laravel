@@ -17,7 +17,7 @@
 Route::get('/login','home\loginController@index');
 
 //前台注册
-// Route::get('/logins','home\loginsController@index');
+Route::get('/logins','home\loginsController@index');
 
 // 前台首页
 Route::get('/index','home\indexController@index');
@@ -29,7 +29,7 @@ Route::get('/index/list','home\listController@index');
 Route::get('/index/fabu','home\fabuController@index');
 
 //前台个人中心页
-Route::get('/fenye','home\zhuyeController@index');
+Route::get('/zhuye','home\zhuyeController@index');
 
 Route::get('/home/index', 'home\demoController@index');
 

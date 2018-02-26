@@ -83,7 +83,7 @@
 
     function doDel(id){
         layer.confirm('你确定要删除？', {
-          btn: ['确定','删除'] //按钮
+          btn: ['确定','取消'] //按钮
             },function(){
                 $.post('{{url("admin/aduser/")}}/'+id,{'_token':'{{csrf_token()}}','_method':'delete'},function(data){
                     if(data==1){
