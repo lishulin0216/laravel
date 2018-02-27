@@ -18,12 +18,6 @@ class user extends Model
     // 	return $this->hasOne('App\Http\Model\permissions','user_id','permissions_id');
     // }
 
-	public $table = 'user';
-
-	public $timestamps = false;
-
-	protected $fillable = ['id','uname','password','tel',];
-
 
 	public function user_info()
 	{
