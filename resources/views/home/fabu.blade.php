@@ -19,7 +19,7 @@
         </div>
 
         <div class="main">
-            <form action="">
+            <form action="{{url('index/list')}}">
             <div class="ask-wrap">
                                                     <h1 class="ask-tit">描述您的问题</h1>
                                 <div class="popup-tit">问题描述<span class="popup-tit-required">（必填）<i>*</i></span></div>
@@ -32,10 +32,10 @@
                     <div class="ipt-limit wordsLimit">可以输入<em>40</em>个字</div>
                     <div class="prompt-box err_tips hide"></div>
                     <!-- 答案列表 -->
-                    <div class="ipt-lst-question same_question_box hide">
+                    <!-- <div class="ipt-lst-question same_question_box hide">
                         <div class="ipt-tit-question"><a href="javascript:;" class="btn-ipt-tit-question close_same_question">关闭</a>您的问题可能已经有了答案：</div>
                         <ul class="popup-lst-question same_question_list"></ul>
-                    </div>
+                    </div> -->
                     <!-- //答案列表 -->
                 </div>
                 <!-- //标题-激活 -->

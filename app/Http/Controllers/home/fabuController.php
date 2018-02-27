@@ -26,7 +26,7 @@ class fabuController extends Controller
      */
     public function create()
     {
-
+        
     }
 
     /**
