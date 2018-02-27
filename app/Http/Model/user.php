@@ -12,15 +12,15 @@ class user extends Model
 
    protected $fillable = ['user_id','user_name','user_tel','user_password'];
 
-   public function user()
+   public function userinfo()
    {
-   	return $this->hasOne('App\Http\model\user','user_id');
+   	return $this->hasOne('App\Http\Model\user','user_id');
    }
 
-   // public function contents()
-   // {
-   // 	return $this->hasmany('App\Http\Model\contents','uid','id');
-   // }
+   public function contents()
+   {
+   	return $this->hasmany('App\Http\Model\contents','uid','id');
+   }
 
 
 }

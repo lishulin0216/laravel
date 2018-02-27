@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
  use App\Http\Model\user;
+ use App\Http\Model\user_info;
 
 class regController extends Controller
 {
@@ -17,9 +18,12 @@ class regController extends Controller
      */
     public function index()
     {
-        $res  = user::all();
-        dd($res);
-    return view('home/reg');
+        // $res  = user::where('user_id','1')->first();
+        //dd($res);/
+        // //$res = $user->contents()->get();
+
+        // dd(1111);
+        return view('home/reg');
       
     }
 

@@ -3,8 +3,6 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>问答注册</title>
-<meta name="keywords" content="350激活码,350模板激活码,350装修平台免费注册,350装修平台激活码,350装修平台,350模板">
-<meta name="description" content="350装修平台每日更新350激活码,通过350平台激活码成功注册后可免费领取一套350模板体验可视化编辑一键装修。亲,快快来体验！">
 <link rel="stylesheet" href="./home/home.zhuce_files/layout.css" type="text/css">
 <script src="./home/home.zhuce_files/jquery.min.js"></script>
 <script src="./home/home.zhuce_files/activate.js"></script>
@@ -42,58 +40,6 @@ $(document).ready(function(){
 <script src="./home/home.zhuce_files/menu.js" type="text/javascript"></script><div class="topa"></div>
 
 
-
-<div class="header">
-
-  <div id="navbar" class="zh1"> <span class="sj-call"><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=79783650&amp;site=qq&amp;menu=yes" rel="nofollow" class="qwb" titlet="联系我们"><i class="fa fa-qq"></i></a></span> <a href="javascript:void" class="dnwu menubtn"><i class="fa fa-bars"></i></a>
-
-    <div id="hamburgermenu" data-type="index" data-infoid="">
-
-      <ul class="dhgl">
-
-        <li id="item-index"><a href="http://www.350mb.com/"><i class="fa fa-home"></i> 首页</a></li>
-
-        
-
-        <li><a href="http://www.350mb.com/zxmb/" 13=""><span>店铺模板</span></a></li>
-
-        
-
-        <li><a href="http://www.350mb.com/mobile/" 26=""><span>手机模板</span></a></li>
-
-        
-
-        <li><a href="http://www.350mb.com/xqmb/" 60=""><span>详情模板</span></a></li>
-
-        
-
-        <li><a href="http://www.350mb.com/haibao/" 31=""><span>海报模板</span></a></li>
-
-        
-
-        <li><a href="http://www.350mb.com/zxjc/" 38=""><span>装修教程</span></a></li>
-
-        
-
-        <li><a href="http://www.350mb.com/url/taobao" target="_blank"><span>购买模板</span></a></li>
-
-        
-
-        <div class="clear"></div>
-
-      </ul>
-
-    </div>
-
-  </div>
-
-  <div class="overlay"></div>
-
-  <div class="clear"></div>
-
-</div>
-
-
 <div style="background: #F9F9F9;padding-top: 30px">
 
 <div class="allWidth clearfix">
@@ -104,47 +50,128 @@ $(document).ready(function(){
             <span>新用户注册</span> <font style="color:#FF6F3B"></font>
           </div>
              <div id="bd" class="layout" style=" overflow:hidden; margin-left:-30px">
-<iframe width="980px" height="550px" scrolling="no" frameborder="0" style="" src="./home/home.zhuce_files/activate.html"></iframe>
-
-    </div>
-</div></div></div>
-<div class="clear"></div>
-<div class="footer">
-  <div class="copyright">
-    <div class="zh2"><span class="fr"></span>Copyright 2016 ©　350mb.com　 重庆阳渝网络科技有限公司  &nbsp; |&nbsp;   重庆市渝北区龙塔街道黄龙路88号 &nbsp;  | &nbsp; <a href="http://www.350mb.com/about/#check=1" target="_blank">关于我们</a> &nbsp;   |  &nbsp;<a href="http://www.350mb.com/about/#check=6" target="_blank">联系我们</a>   &nbsp; |  &nbsp;
- 渝ICP备16012926号-1</div>
+             
+<div id="bd" class="layout">
+  <div class="jh-content clear">
+             
+      </div>
+      <div class="jh-form formPanel" data-regtype="phone">
+    <form action="http://u.350.net/activate/submit" class="jh-formP">
+        <input type="hidden" name="isnew" value="0">
+    
+    
+        <div class="control-group phone-group">
+          <label class="control-label">手机号：</label>
+          <div class="control">
+            <input class="text" type="text" placeholder="输入您的手机号" style="width: 120px; border-color: rgb(204, 204, 204);" name="phone"><a href="http://www.350mb.com/activate.html#" class="send_sms">发送验证码</a><div class="tips phoneTips"><p class="error"><span class="icon_delS"></span>请填写手机号</p></div>
+            <div class="switch-reg"></div>
+          </div>
+        </div>
+    <div class="control-group phonecode-group" style="display:none">
+          <label class="control-label">短信验证码：</label>
+          <div class="control">
+            <input class="text" type="text" placeholder="输入短信验证码" style="width: 120px;" name="pcode">
+            <div class="tips phonecodeTips"></div>
+          </div>
+        </div>
+    <div class="control-group email-group" style="display:none">
+          <label class="control-label">Email：</label>
+          <div class="control">
+            <ul class="emailist" style="position: absolute; margin-top: 0px; visibility: hidden; z-index: 9999;"></ul><input class="text" type="text" placeholder="输入您的电子邮箱" autocomplete="off" name="email">
+            <input style="display:none">
+            <div class="switch-reg">或使用<a href="http://www.350mb.com/activate.html#">手机注册</a></div>
+          </div>
+        </div>
+    
+    
+        <div class="control-group jh-pwd">
+          <label class="control-label">密码：</label>
+          <div class="control">
+            <input class="text" type="password" placeholder="输入密码" name="pwd" maxlength="20" style="border-color: rgb(204, 204, 204);"><div style="height:22px"><div class="tips pwdTips"><p class="error"><span class="icon_delS"></span>密码长度应为6~16个字符</p></div><div class="pswState pswState-poor" style="display:none"><span class="s1">弱</span> <span class="s2">中等</span> <span class="s3">强</span></div></div>
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label">重复密码：</label>
+          <div class="control">
+            <input class="text" type="password" placeholder="再次输入密码" name="pwd2" maxlength="20" style="border-color: rgb(204, 204, 204);"><div class="tips pwd2Tips"><p class="error"><span class="icon_delS"></span>请再次输入密码</p></div>
+          </div>
+        </div>
+    
+        <div class="control-group vcode-group" style="display:none">
+          <label class="control-label">验证码：</label>
+          <div class="control">
+            <input class="text" type="text" name="vcode" style="width:60px" placeholder="验证码" maxlength="4">
+            <img src="./captcha" width="100" height="40" data-url="http://u.350.net/captcha?" class="d-ib vcode"><a href="http://www.350mb.com/activate.html#" class="d-ib vcode-ce">看不清？</a> </div>
+        </div>
+        <div class="opt-footer" style="clear:both">
+          <input type="button" value="确认提交" class="button-box btn-ok">
+        </div>
+    </form>
+</div>
+      
   </div>
+</div>
+<script id="J_jh_html" type="text/html">
+    <form action="http://u.350.net/activate/submit" class="jh-formP">
+        <input type="hidden" name="isnew" value="<%=tp%>">
+        <div class="control-group">
+          <label class="control-label">用户名：</label>
+          <div class="control">
+            <input class="text" type="text" placeholder="用户名" name="uname" maxlength="21">
+      <div class="tips keyTips"></div>
+          </div>
+        </div>
+        
+    <%if(tp==0){%>
+        <div class="control-group phone-group">
+          <label class="control-label">手机号：</label>
+          <div class="control">
+            <input class="text" type="text" placeholder="输入您的手机号" style="width: 120px;" name="phone"><a href="#" class="send_sms">发送验证码</a><div class="tips phoneTips"></div>
+            <div class="switch-reg"></div>
+          </div>
+        </div>
+    <div class="control-group phonecode-group" >
+          <label class="control-label">短信验证码：</label>
+          <div class="control">
+            <input class="text" type="text" placeholder="输入短信验证码" style="width: 120px;" name="pcode">
+            <div class="tips phonecodeTips"></div>
+          </div>
+        </div>
+    
+    <%}else{%>
+        
+    <%}%>
+    <%if(tp==0){%>
+        <div class="control-group jh-pwd">
+          <label class="control-label">密码：</label>
+          <div class="control">
+            <input class="text" type="password" placeholder="输入密码" name="pwd" maxlength="20"><div style="height:22px"><div class="tips pwdTips"><p class="notice"><span class="icon_askS"></span>6~16个字符</p></div><div class="pswState pswState-poor" style="display:none"><span class="s1">弱</span> <span class="s2">中等</span> <span class="s3">强</span></div></div>
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label">重复密码：</label>
+          <div class="control">
+            <input class="text" type="password" placeholder="再次输入密码" name="pwd2" maxlength="20"><div class="tips pwd2Tips"></div>
+          </div>
+        </div>
+    <%}%>
+        
+        <div class="opt-footer" style="clear:both">
+          <input type="button" value="确认提交" class="button-box btn-ok">
+        </div>
+    </form>
+</script>
+
+
+
+
+            </div>
+        </div>
+      </div>
 </div>
 
 
 <link rel="stylesheet" type="text/css" href="./home/home.zhuce_files/kefu.css">
-<!--在线客服  -->
-<div class="scrollsidebar" id="scrollsidebar" style="top: 201px;">
-  <div class="side_content">
-    <div class="side_list">
-      <div class="side_title"><a title="隐藏" class="close_btn"><span>关闭</span></a></div>
-      <div class="side_center">
-        <div class="custom_service">
-         
-        </div>
-        <div class="other">
-          <p style="line-height:18px;margin-bottom:5px"><img src="./home/home.zhuce_files/ewm.jpg" width="120"><br>微信扫一扫加好友</p>
-          
-          
-        </div>
-        <div class="msgserver">
-          <p><a href="http://www.350mb.com/zhuce/">领取激活码</a></p>
-        </div>
-      </div>
-      <div class="side_bottom"></div>
-    </div>
-  </div>
-  <div class="show_btn"><span>在线客服</span></div>
-</div>
 
 <script type="text/javascript" src="./home/home.zhuce_files/kefu.js"></script>
-<!--
-<div id="tbox"> <a id="gotop" href="javascript:void(0)" title="回到顶部"><i class="fa fa-angle-up"></i></a> <a id="pinglun" href="http://wpa.qq.com/msgrd?v=3&uin=79783650&site=qq&menu=yes" target="_blank" title="通过QQ联系我们" rel="nofollow"><i class="fa fa-qq"></i></a> <a id="xiangguan" href="/mbsp" title="观看视频" target="_blank"><i class="fa fa-comment-o"></i></a> </div>-->
-
-
 </div></body></html>

@@ -13,22 +13,23 @@
 <!--//webfonts-->
 </head>
 <body>
-	<h1>你来问,我来答!!!</h1>
 		<div class="app-location">
-			<h2>欢迎来到 之乎者也</h2>
+			<h1>欢迎来到 之乎者也</h1>
 			<div class="line"><span></span></div>
 			<div class="location"><img src="./home/images/location.png" class="img-responsive" alt="" /></div>
-			<form>
-				<input type="text" class="text" value="E-mail address" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'E-mail address';}" >
+			
+				<input type="text" class="text" value="Name" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Name';}" >
 				<input type="password" value="Password" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Password';}">
-				<div class="submit"><input type="submit" onClick="myFunction()" value=" 登录" ></div>
+				<div class="submit">
+					<input type="submit" style="width:350px;content;" value="登录">
+				</div>
 				<div class="clear"></div>
 				<div class="new">
 					<h3><a href="#">忘记密码 ?</a></h3>
 					<h4><a href="#">新用户? 注册</a></h4>
 					<div class="clear"></div>
 				</div>
-			</form>
+		
 		</div>
 	<!--start-copyright-->
    		<div class="copy-right">
