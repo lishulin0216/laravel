@@ -17,7 +17,7 @@
         <div class="app-location">
             <h2>Welcome to Wenhe</h2>
             <div class="line"><span></span></div>
-            <div class="location"><img src="/admin/images/location.png" class="img-responsive" alt="" /></div>
+            <div class="location"><img src="/home/images/location.png" class="img-responsive" alt="" /></div>
             <form action="" method="">
                 <input type="text" class="text" value="Name" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Name';}" >
                 <input type="password" value="Password" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Password';}">

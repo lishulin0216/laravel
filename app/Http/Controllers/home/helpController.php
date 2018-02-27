@@ -10,7 +10,7 @@ use App\Http\Model\user;
 
 
 
-class zhuyeController extends Controller
+class helpController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -19,9 +19,9 @@ class zhuyeController extends Controller
      */
     public function index()
     {   
-       //$res = user::all();
+      
+      return view('home/help');
         
-        return view('home/zhuye');
         
     }
 

@@ -11,7 +11,23 @@
 |
 */
 
+//前台个人中心页
+Route::get('/fenye','home\zhuyeController@index');
 
+//我的提问
+Route::get('/tiwen','home\zhuyeController@index');
+
+//我的回答
+Route::get('/huida','home\zhuyeController@index');
+
+//我的积分
+Route::get('/jifen','home\zhuyeController@index');
+
+//浏览记录
+Route::get('/liulan','home\zhuyeController@index');
+
+//系统消息
+Route::get('/xitong','home\zhuyeController@index');
 
 // 前台登录
 Route::get('/login','home\loginController@index');
@@ -34,16 +50,16 @@ Route::get('/zhuye','home\zhuyeController@index');
 Route::get('/home/index', 'home\demoController@index');
 
 //发布页
-Route::resource('/fabu','home\fabuController');
+Route::resource('/home/fabu','home\fabuController');
 
 //问题页
-Route::resource('/wenti','home\wentiController');
+Route::resource('/home/wenti','home\wentiController');
 
 
 // 后台首页
 // Route::get('/admin/index', 'admin\indexController@index');
 // 添加
-Route::resource('/admin/add','admin\aduserController@create');
+// Route::resource('/admin/add','admin\aduserController@create');
 // 登录
 Route::resource('/admin/login','admin\loginController@index');
 // 类别管理
@@ -54,6 +70,4 @@ Route::resource('/admin/aduser','admin\aduserController');
 Route::resource('/admin/audit','admin\auditController@index');
 // 权限管理
 Route::resource('/admin/permissions','admin\permissionsController@index');
-
-
 
